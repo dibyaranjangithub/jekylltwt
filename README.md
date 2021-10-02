@@ -8,7 +8,7 @@ Jekyll is a gem-based static site generator.
 
 ### Third level heading
 
-Yeeee, I will learn Jekyll in this tutorial...
+Yaaayyy, I will learn Jekyll in this tutorial...
 
 - twt
 - Github
