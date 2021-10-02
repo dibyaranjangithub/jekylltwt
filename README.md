@@ -1,6 +1,6 @@
 # jekylltwt
 
-This website is created using Jekyll- a static aite generator.
+This website is created using Jekyll- a static site generator.
 
 ## Second Heading
 
