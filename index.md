@@ -1,5 +1,6 @@
 ---
 author: Dibya
+date: 9th Nov 2021
 ---
 
 This is the front matter, Jekyll transformer recognises if the page starts with three `---` and end with three `---` , example:
@@ -10,7 +11,7 @@ author: Dibya
 ---
 ```
 
-### This page is written by {{page.author}}
+### This page is written by {{page.author}} on {{page.date}}
 
 # What is Lorem Ipsum? 
 
