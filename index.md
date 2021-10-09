@@ -6,7 +6,7 @@ date: 9th Nov 2021
 layout: template
 ---
 
-This is the front matter, Jekyll transformer recognises if the page starts with three `---` and end with three `---` , example:
+This, `index.md` is the front matter, Jekyll transformer recognises if the page starts with three `---` and end with three `---` , example:
 
 ```
 ---
