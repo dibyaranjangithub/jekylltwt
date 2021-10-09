@@ -2,6 +2,8 @@
 
 This website is created using Jekyll- a static site generator.
 
+To generate website from GitHub, Jekyll searches for either Readme.md or index.md or index.html
+
 ## Second Heading
 
 Jekyll is a gem-based static site generator.
@@ -80,6 +82,9 @@ This is a [link](https://www.google.com/)
 ![image alt text](path to
 image file)
 ```
+
+![Indian Army Logo](https://commons.wikimedia.org/wiki/File:A_logo_for_indian_army.png)
+
 ###### Local images:
 
 Local images should be relative (images inside an `images` folder in repository) images, not absolute (website) images
