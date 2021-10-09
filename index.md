@@ -1,8 +1,14 @@
 ---
-author: Dibya <!these are the variables!>
+author: Dibya
 ---
 
-This is the front matter, Jekyll transformer recognises if the page starts with three `---` and end with three `---` 
+This is the front matter, Jekyll transformer recognises if the page starts with three `---` and end with three `---` , example:
+
+```
+---
+author: Dibya
+---
+```
 
 ### This page is written by {{page.author}}
 
