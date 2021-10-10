@@ -73,10 +73,7 @@ To learn more about the invitation flow and how users can accept invitations, se
 
 {% for item in site.data.titanic %}
 1. {{item.name}} : {{item.age}}
-
 {% endfor %}
-
-{% include sample_text.md %}
 
 
 
