@@ -2,6 +2,14 @@
 
 This website is created using Jekyll- a static site generator.
 
+#### Links to other pages:
+
+- [Indian Airforce](/topics/indian_airforce.md)
+
+- [Indian Army](/topics/indian_airforce.md)
+
+- [Indian Army](/topics/indian_navy.md)
+
 To generate website from GitHub, Jekyll searches for either Readme.md or index.md or index.html
 
 ## Second Heading
