@@ -6,6 +6,28 @@ date: 9th Nov 2021
 layout: template
 ---
 
+
+#### Checkbox Selected
+
+```
+[X] Wake up
+[X] Get out of bed
+```
+[X]  Wake up
+
+[X]  Get out of bed
+
+#### Checkbox Cleared
+
+```
+[] Wake up
+[] Get out of bed
+```
+[]  Wake up
+
+[]  Get out of bed
+
+
 This, `index.md`, is the front matter, Jekyll transformer recognises if the page starts with three `---` and end with three `---` , example:
 
 ```
