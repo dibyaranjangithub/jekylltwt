@@ -22,6 +22,7 @@ Follwoing is the liquid syntax for _data file:
 {% for item in list %}
 keep doing something till the last item
 {% endfor %}
+
 ```
 
 {% for item in site.data.datafile %}
