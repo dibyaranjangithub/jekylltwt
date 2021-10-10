@@ -85,6 +85,7 @@ image file)
 
 ![Indian Army Logo](https://commons.wikimedia.org/wiki/File:A_logo_for_indian_army.png)
 
+
 ###### Local images:
 
 Local images should be relative (images inside an `images` folder in repository) images, not absolute (website) images
@@ -95,12 +96,12 @@ Local images should be relative (images inside an `images` folder in repository)
 #### Checkbox Selected
 
 ```
-[x] Wake up
-[x] Get out of bed
+[X] Wake up
+[X] Get out of bed
 ```
-[x]  Wake up
+[X]  Wake up
 
-[x]  Get out of bed
+[X]  Get out of bed
 
 #### Checkbox Cleared
 
