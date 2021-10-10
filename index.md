@@ -6,7 +6,7 @@ date: 9th Nov 2021
 layout: template
 ---
 
-![Indian Army Logo](https://commons.wikimedia.org/wiki/File:A_logo_for_indian_army.png)
+![Indian Army Logo](https://upload.wikimedia.org/wikipedia/commons/d/dd/A_logo_for_indian_army.png)
 
 #### Checkbox Selected
 
