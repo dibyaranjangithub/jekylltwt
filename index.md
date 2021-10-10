@@ -5,6 +5,13 @@ author: Dibya
 date: 9th Nov 2021
 layout: template
 ---
+#### Links to other pages:
+
+- [Indian Airforce](/topics/indian_airforce.md)
+
+- [Indian Army](/topics/indian_airforce.md)
+
+- [Indian Army](/topics/indian_navy.md)
 
 ![Indian Army Logo](https://upload.wikimedia.org/wikipedia/commons/d/dd/A_logo_for_indian_army.png)
 
