@@ -16,7 +16,7 @@ author: Dibya
 
 ### This page is written by {{page.author}} on {{page.date}} at {{site.place}} in {{site.when}}
 
-Follwoing is the liquid syntax for _data file:
+Following is the liquid syntax for _data file:
 
 ```
 {% for item in list %}
